@@ -80,7 +80,7 @@ nav{
     text-indent: 1px;
     font-size: 18px;
     font-weight: bold;
-     background-color:   var(--cor5);
+     background-color:var(--cor5);
      padding: 5px;
 }
 .nav:hover{
